@@ -1,3 +1,3 @@
 # Gary Matthews
 
-Github Projects Website
+Github Projects
